@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANANTH4004
-- 👀 I’m interested in BLOCKCHAIN TECHNOLOGY
+- 👀 I’m interested in BLOCKCHAIN TECHNOLOGY AND SOFTWARE DEVELOPMENT.
 - 🌱 I’m currently in my final year of Electronics and Communication Engineering
 
 <!---
