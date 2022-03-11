@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANANTH4004
+- 👋 Hi, I’m @Ananth Balamurugan
 - 👀 I’m interested in BLOCKCHAIN TECHNOLOGY AND SOFTWARE DEVELOPMENT.
 - 🌱 I’m currently in my final year of Electronics and Communication Engineering
 
