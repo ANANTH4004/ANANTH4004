@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Ananth Balamurugan
-- 👀 I’m interested in BLOCKCHAIN TECHNOLOGY AND SOFTWARE DEVELOPMENT.
+- 👋 Hi, I’m @Ananth Balamurugan.
