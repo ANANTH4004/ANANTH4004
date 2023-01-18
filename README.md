@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananth B</h1>
 <h3 align="center">I am a Full-stack .NET Developer</h3>
 
-- 🔭 I’m currently working on **Mphasis Limited**
+- 🔭 I’m currently working at **Mphasis Limited**
 
 - 🌱 I’m currently learning **Angular Material**
 
