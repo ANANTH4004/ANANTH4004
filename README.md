@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full-stack .NET Developer</h3>
 
 
-🔭 I’m currently working at Mphasis Limited<br><br>🌱 I’m currently learning Angular Material<br><br>💬 Ask me about .NET CORE<br><br>📫 How to reach me balamuruganananth@gmail.com<br> 
+🔭 I’m currently working at Mphasis Limited<br><br>🌱 I’m currently learning Angular Material<br><br>💬 Ask me about .NET CORE<br><br>📫 How to reach me balamuruganananth@gmail.com<br> <br>
 Profile : <a href="https://ananthb.netlify.app/">Ananth Balamurugan</a>
 
 
