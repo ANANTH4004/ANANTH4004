@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananth B</h1>
-<h3 align="center">I am a Full-stack .NET Developer</h3>
-🔭 Currently working at Mphasis Limited.<br><br>🌱 Learning Java.<br><br>💬 Ask me about .NET CORE & Angular 10+.<br><br>📫 How to reach me balamuruganananth@gmail.com<br> <br>
+<h3 align="center">I am a Full-stack Web Developer</h3>
+🔭 Currently working at Mphasis Limited.<br><br>🌱 Learning Angular<br><br>💬 Ask me about Angular 10+.<br><br>📫 How to reach me balamuruganananth@gmail.com<br> <br>
 🙋‍ Profile : <a href="https://ananthb.netlify.app/">Ananth Balamurugan.</a>
 
 
